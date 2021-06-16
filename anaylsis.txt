@@ -1,0 +1,27 @@
+Word found: boss, times: 1
+Word found: time times: 1
+Word found: remember times: 2
+Word found: environment
+
+
+
+
+
+
+
+
+
+
+
+
+ times: 3
+Word found: you times: 1
+Word found: you times: 2
+Word found: you times: 3
+Word found: you times: 4
+Word found: you're times: 5
+Word found: you times: 6
+Word found: you times: 7
+Word found: you times: 8
+Word found: you're times: 9
+Word found: your times: 10
